@@ -1,0 +1,48 @@
+<!-- Portfolio Grid Section -->
+
+<div class="portfolio-grid">
+  {% for post in site.portfolio %}
+    <div class="post-card">
+
+      {% if post.categories %}
+        {% assign categories = post.categories %}
+        <span class="post-card__label">
+          {% for category in categories %}
+            {% if category == "github" %}
+              {% assign postlink = post.github %}
+              <a href="{{post.github}}" class="label_github">{{ category }}</a>
+            {% endif %}
+            {% if category == "webpage" %}
+              {% assign postlink = post.webpage %}
+              <a href="{{post.webpage}}" class="label_webpage">{{ category }}</a>
+            {% endif %}
+            {% unless forloop.last %}&nbsp;{% endunless %}
+          {% endfor %}
+        </span>
+      {% endif %}
+
+      <a href="{{ postlink }}">
+      <div class="post-card__thumb">
+          <div class="post-card__thumb_logo">
+          {% if post.img %}
+            <img src="{{post.img}}" style="height:30px">
+          {% endif %}
+	  </div>
+	  <div class="post-card__thumb_title">
+            <h3 class="post-card__thumb_title__h">{{ post.title | strip_html | truncate: 50 }}</h3>
+          </div>
+      </div>
+      </a>
+      <a class="post-card__inner" href="{{ postlink }}">
+      {% if post.description %}
+        <p>{{ post.description | strip_html | truncatewords:23 }}</p>
+      {% else %}
+        <p>{{ post.content | strip_html | truncatewords: 23 }}</p>
+      {% endif %}
+      </a>
+    </div>
+    {% endfor %}
+</div>
+
+
+

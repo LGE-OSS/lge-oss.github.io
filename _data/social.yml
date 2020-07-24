@@ -1,0 +1,40 @@
+# Icons on the footer
+rss:
+email_address:    # Full email address, e.g. "sam@example.com"
+behance:
+bitbucket:
+dribbble:
+facebook:
+flickr:
+gitlab:
+github: "lge-oss"
+instagram:
+keybase:
+linkedin:         # Full URL
+pinterest:
+reddit:
+soundcloud:
+stack_overflow:
+stack_exchange:   # Full URL
+steam:
+tumblr:
+twitter: "lgeoss"          # "twitter username"
+vimeo:
+wordpress:
+youtube:          # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
+
+# rss specify feed path
+feed:
+  path:
+
+# Share button options
+share:
+  facebook: 
+  twitter: true
+  tumblr:
+  pinterest:
+  pocket:
+  reddit:
+  linkedin:
+  wordpress:
+  email:
