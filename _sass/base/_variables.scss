@@ -1,7 +1,8 @@
 // Typography
-$font-family-main: Arial, sans-serif;
-$font-family-headings: Arial, sans-serif;
-$font-family-logo: Arial, sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300&display=swap');
+$font-family-main: 'Mulish', sans-serif;
+$font-family-headings: 'Mulish', sans-serif;
+$font-family-logo: 'Mulish', sans-serif;
 $font-size: 1.25em;
 
 // Padding
