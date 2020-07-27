@@ -7,8 +7,7 @@ permalink: /about/
 
 # <center> LG Open Source </center> 
 <br>
-LG Open Source Homepage provides the information of LG Electronics Open Source Projects and guide for open source policy and open source compliance process to use open source effectively.
-<br>
+LG Open Source Homepage provides the information of LG Electronics Open Source Projects and guide for open source policy and open source compliance process to use open source effectively. We open and share it according to our core values.
 <br>
 <br>
 {% include keyvalue.html %}
@@ -18,7 +17,6 @@ LG Open Source Homepage provides the information of LG Electronics Open Source P
 <br>
 <br><em>I.P. Park, President and CTO at LG Electronics</em></center>
 
-<br />
 <br />
 <br />
 <br />
