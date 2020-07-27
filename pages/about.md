@@ -5,7 +5,7 @@ feature-img: assets/img/background/about.png
 permalink: /about/
 ---
 
-# <center> LG Open Source </center> 
+<p align="center"><img src="/assets/img/icons/bi.png" width="70%"/></p>
 <br>
 LG Open Source Homepage provides the information of LG Electronics Open Source Projects and guide for open source policy and open source compliance process to use open source effectively. We open and share it according to our core values.
 <br>
