@@ -10,7 +10,7 @@ permalink: /about/
 {% include keyvalue.html %}
 <hr>
 <br>
-####  Whether you want to download the source codes for Open Source Software that we use in our product, then please visit [LGE Open Source Distribution Site](/http://opensource.lge.com)
+####  Whether you want to download the source codes for Open Source Software that we use in our product, then please visit [LGE Open Source Distribution Site](http://opensource.lge.com)
 <br>
 <br>
 <br>
