@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+feature-img: assets/img/background/about.png
 permalink: /about/
 ---
 

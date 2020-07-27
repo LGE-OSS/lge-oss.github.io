@@ -8,8 +8,7 @@ description: "Welcome. This is LG Open Source Homepage."      # used by search e
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: LG Open Source  # Change Blog header text
-header_feature_image: /assets/img/pexels/art-notebook.jpeg
+header_feature_image: /assets/img/background/main_1-1_ex.png
 
 footer_text: >
   Copyright (c) 2020 LG Electronics
@@ -47,4 +46,3 @@ exclude: [".jekyll-cache", ".idea", "vendor/*", "assets/node_modules"]
 # theme: type-on-strap                                  # if using the theme as a jekyll theme gem
 remote_theme: sylhare/Type-on-Strap                     # If using as a remote_theme in github
 
-theme: jekyll-theme-cayman
