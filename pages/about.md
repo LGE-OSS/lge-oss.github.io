@@ -12,7 +12,11 @@ LG Open Source Homepage provides the information of LG Electronics Open Source P
 <br>
 {% include keyvalue.html %}
 
-
+<hr>
+<br>
+## <center>GPL Cooperation Commitment</center>
+<br>
+According to these core values, we joined the GPL Cooperation Commitment, which provides for fair and consistent enforcement of the GPL.
 ><center>“LG Electronics is thrilled to be a part of the <a href="https://github.com/LGE-OSS/gpl-commitment">GPL Cooperation Commitment</a>. We will continue to promote the use of open source software in the right way and further encourage collaboration spirit in the open source community."
 <br>
 <br><em>I.P. Park, President and CTO at LG Electronics</em></center>
