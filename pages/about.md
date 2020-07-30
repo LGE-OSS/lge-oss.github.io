@@ -26,9 +26,9 @@ Adhering to these core values, we have joined the GPL Cooperation Commitment, wh
 <br />
 <hr>
 <br>
-## <center>LGE Distribution Site</center>
+## <center>Distribution Site</center>
 <br>
-Whether you wish to download the open source software notice or source codes for Open Source Software used in our products, please visit the [<span style="color:#ab1628">LGE Open Source Distribution Site</span>](http://opensource.lge.com). We have already released all source codes in compliance with our obligations. 
+Whether you wish to download the open source software notice or source codes for Open Source Software used in our products, please visit the [<span style="color:#ab1628">LG Electronics Open Source Distribution Site</span>](http://opensource.lge.com). We have already released all source codes in compliance with our obligations. 
 <br>
 <br>
 <br>
