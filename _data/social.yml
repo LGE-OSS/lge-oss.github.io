@@ -4,11 +4,11 @@ email_address:    # Full email address, e.g. "sam@example.com"
 behance:
 bitbucket:
 dribbble:
-facebook:
+facebook: "theLGstory"
 flickr:
 gitlab:
 github: "lge-oss"
-instagram:
+instagram: "lgelectronics_kr"
 keybase:
 linkedin:         # Full URL
 pinterest:
@@ -18,10 +18,10 @@ stack_overflow:
 stack_exchange:   # Full URL
 steam:
 tumblr:
-twitter: "lgeoss"          # "twitter username"
+twitter: "lgelectronics"          # "twitter username"
 vimeo:
 wordpress:
-youtube:          # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
+youtube: "UCrIAnDo3VuWex3fywkGpB1g"          # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
 
 # rss specify feed path
 feed:
@@ -29,7 +29,7 @@ feed:
 
 # Share button options
 share:
-  facebook: 
+  facebook: true
   twitter: true
   tumblr:
   pinterest:
