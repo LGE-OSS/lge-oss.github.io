@@ -21,6 +21,18 @@ Adhering to these core values, we have joined the GPL Cooperation Commitment, wh
 <br>
 <br><em>I.P. Park, President and CTO at LG Electronics</em></center>
 
+<hr>
+<br>
+## <center>OpenChain Conformance</center>
+<br>
+
+<p align="center"><img src="/assets/img/posts/openchain-2-0-small.jpg" width="400"/></p>
+
+We <a href="https://www.openchainproject.org/news/2019/11/19/lg-electronics-announces-openchain-conformance" target="_blank">announced</a> that we have an <a href="https://www.openchainproject.org/get-started/conformance" target="_blank">OpenChain conformant program.</a> We're the first major Korean company to take this step, cementing our status as a thought leader in the space. 
+><center>"Open source software is increasingly being used in new technologies such as artificial intelligence, big data, and the cloud. We will comply with open source licenses and increase quality so that customers can use LG Electronics’ products and services with confidence."
+<br>
+<br><em>I.P. Park, President and CTO at LG Electronics</em></center>
+
 <br />
 <br />
 <br />
