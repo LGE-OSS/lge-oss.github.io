@@ -1,11 +1,16 @@
 .learn-icon {
-  width: 36%;
-  height: 10%;
-  margin: 18em 30em 5em 6em;
+  width: 25%;
+  height: 15%;
+  line-height: 1.5em;
+  margin: 25% auto auto 15%;
   display: block;
   text-align: center;
   color: #fff;
   position: relative;
+  background-image: linear-gradient(#a98ab6, #c4a1c2);
+  font-size: 2rem;
+  border-radius: 1rem;
+  box-shadow: 2px 2px 2px #a99facb9;
 
   @media screen and (min-width: $break) {
     height: 10%;
@@ -21,24 +26,6 @@
     margin: 18em 6em;
     font-size: 1rem;
   }
-
-
-  & img{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    vertical-align: middle;
-  }
-  .centered {
-    width: 100%;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    text-align: center;
-    transform: translate(-50%, -50%);
-    font-size: 110%;
-   }
 
   & a{
     color: #fff;
