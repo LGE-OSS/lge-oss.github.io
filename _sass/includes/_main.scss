@@ -1,25 +1,24 @@
 .learn-icon {
-  width: 8rem;
-  margin-top: 5rem;
-  margin-right: 8rem;
+  width: auto;
   display: inline-block;
   color: #fff;
   position: relative;
-  font-size: 0.3rem;
   border-radius: 1rem;
+  font-size: 2rem;
+  margin-top: 23rem;
+  margin-left: 15rem;
 
-  @media (min-width: 48em) {
-    width: 20rem;
-    font-size: 0.6em;
+  @media screen and (max-width: $break) {
+    font-size: 1rem;
     margin-top: 10rem;
-    margin-right: 17rem;
+    margin-left: 5rem;
   }
 
-  @media (min-width: 75em) {
-    width: 30rem;
-    font-size: 1em;
-    margin-top: 19rem;
-    margin-right: 31rem;
+  @media screen and (max-width: $sm-break) {
+    width: 7rem;
+    font-size: 0.2rem;
+    margin-top: 4rem;
+    margin-left: 2rem;
   }
 }
 
