@@ -30,13 +30,23 @@
             {% endunless %}
             {% assign name_page = page.title | append: name_page %}
         {% endfor %}
-	<li class="separator"> | </li>
+	    <li class="separator"> | </li>
         <li>
-	  <a class="clear" aria-label="guide" title="guide" href="https://lge-oss.github.io/guide/">Guide</a>
+	        <a class="clear" aria-label="guide" title="guide" href="https://oss.lge.com/guide/">Guide</a>
         </li>
-	<li class="separator"> | </li>
+	    <li class="separator"> | </li>
         <li>
-	  <a class="clear" aria-label="github" title="github" href="https://github.com/LGE-OSS">Github</a>
+	        <a class="clear" aria-label="github" title="github" href="https://github.com/LGE-OSS">Github</a>
+        </li>
+        <li class="separator"> | </li>
+        <li>
+            <div class="dropdown">
+                <button class="dropbtn"><img src="{{ site.baseurl }}/assets/img/icons/language.ico" alt="language"></button>
+                <div class="dropdown-content">
+                    <a href="https://oss.lge.com/ko/">Korean</a>
+                    <b>English</b>
+                </div>
+            </div>
         </li>
     </ul>
 
