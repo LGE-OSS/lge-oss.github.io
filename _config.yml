@@ -8,7 +8,7 @@ description: "Welcome. This is LG Open Source Program Office Homepage."      # u
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_feature_image: /assets/img/background/main_ospo.png
+header_feature_image: /assets/img/background/main_mod2.png
 
 footer_text: >
   Copyright (c) 2020 LG Electronics
