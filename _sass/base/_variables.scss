@@ -1,10 +1,10 @@
 // Typography
 
-@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300&display=swap');
-$font-family-main: 'Karla', sans-serif;
-$font-family-headings: 'Karla', sans-serif;
-$font-family-logo: 'Karla', sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&family=Roboto:wght@300&family=Rubik&display=swap');
+$font-family-main: 'Noto Sans KR', 'Roboto', sans-serif;
+$font-family-headings: 'Noto Sans KR', 'Roboto', sans-serif;
+$font-family-logo: 'Noto Sans KR', 'Roboto', sans-serif;
+$font-family-nav: 'Rubik', sans-serif;
 $font-size: 1.25em;
 
 // Padding
@@ -33,7 +33,7 @@ $background-color: #fff;
 $border-color: rgba(0, 0, 0, 0.1); // rgba recommended if using feature images
 
 // Typography colours
-$text-color: #262626;
+$text-color: #000000;
 $meta: #595959; //lowest gray for accessible color
 $link-color: $theme-color;
 $selection-color: #D4D4D4; // visible when highlighting text

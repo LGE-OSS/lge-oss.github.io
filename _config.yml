@@ -1,14 +1,14 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://lge-oss.github.io"
+url: "https://oss.lge.com"
 
 # THEME-SPECIFIC CONFIGURATION
-title: LG Open Source                                    # site's title
-description: "Welcome. This is LG Open Source Homepage."      # used by search engines
+title: LG OSPO Homepage                                  # site's title
+description: "Welcome. This is LG Open Source Program Office Homepage."      # used by search engines
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_feature_image: /assets/img/background/main_mod2.png
+header_feature_image: /assets/img/background/main_ospo.png
 
 footer_text: >
   Copyright (c) 2020 LG Electronics
