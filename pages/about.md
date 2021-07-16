@@ -7,7 +7,7 @@ permalink: /about/
 <br>
 ## <center>LG Open Source Program</center>
 <br>
-LG Open Source Program Office manages open source and reduce open source compliance risk in the company. build the overall open source strategy of the company such as auditing and constituting other policies on the use and distribution of open source, training for the software developers in the company, spreading an open source culture and activating participation in open source community. We discloses how LG Electronics has established an open source policy and open source compliance process in the [guide](https://oss.lge.com/guide) page.
+LG Open Source Program Office manages open source and reduces open source compliance risk in the company. Specifically to do this, LG OSPO builds the overall open source strategy of the company such as auditing and constituting other policies on the use and distribution of open source, training for the software developers in the company, spreading an open source culture and activating participation in open source community. We discloses how LG Electronics has established an open source policy and open source compliance process in the [guide](https://oss.lge.com/guide) page.
 
 <br>
 <hr>

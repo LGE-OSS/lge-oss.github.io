@@ -4,11 +4,11 @@ email_address:    # Full email address, e.g. "sam@example.com"
 behance:
 bitbucket:
 dribbble:
-facebook: "theLGstory"
+facebook:
 flickr:
 gitlab:
 github: "lge-oss"
-instagram: "lgelectronics_kr"
+instagram:
 keybase:
 linkedin:         # Full URL
 pinterest:
@@ -18,7 +18,7 @@ stack_overflow:
 stack_exchange:   # Full URL
 steam:
 tumblr:
-twitter: "lgelectronics"          # "twitter username"
+twitter:          # "twitter username"
 vimeo:
 wordpress:
 youtube: "UCGCKQQvHh6pgjwHmZtKi8Hw"          # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
