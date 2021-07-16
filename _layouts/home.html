@@ -3,11 +3,22 @@ layout: default
 ---
 
 <div class="home">
-    <div id="main" class="call-out" style="background-image: url('{{ site.header_feature_image | relative_url }}')">
-        <div class="learn-icon">
-            <a href=/project class="button4">
-              Learn more projects!
-            </a>
-          </div>
-    </div>
+  <div id="main" class="call-out" style="background-image: url('{{ site.header_feature_image | relative_url }}')">
+  
+  <div class="main_post">
+    <p align="center"><img src="/assets/img/icons/bi.png" width="70%"/></p>
+    <br>
+    <p>
+    LG Open Source Homepage provides information on LG Electronics Open Source Projects, as well as guidance for policy and compliance process to ensure effective utilization of open source in accordance with our core values.
+    </p>
+    <br><br><hr>
+    <br>
+    {% include keyvalue.html %}
+    <br>
+    <br>
+    {% include attribution.html %}
+  </div>
+  </div>
+  </div>
 </div>
+

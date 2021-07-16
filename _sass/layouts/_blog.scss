@@ -1,28 +1,28 @@
 /* --- Header text feature --- */
 .call-out {
-  @extend %padding-header;
+  //@extend %padding-header;
   display: inline-block;
   width: 100%;
-  height: 33em;
-  font-size: 1.2em;
+  height: 100%;
+  font-size: 1.1em;
   text-align: left;
-  color: $header-text-color;
+  color: #000;
   background: $header-background-color no-repeat;
-  background-size: $feature-image-size;
+  background-size: 100% 37em;
 
   /* --- Responsive --- */
   @media screen and (min-width: $break) {
-    height: 33em;
-    background-size: 100% auto;
+    background-size: 100% 37em;
   }
 
   @media screen and (max-width: $break) {
-    background-size: 100% auto;
+    background-size: 100% 20em;
   }
 
   @media screen and (max-width: $sm-break) {
-    height: auto;
-    background-size: 100% auto;
+    //height: 10em;
+    background-size: 100% 10em;
+    font-size: 1em;
   }
 
   //For white images
@@ -35,11 +35,11 @@
   h4,
   h5 {
     font-family: $font-family-logo;
-    @extend .header-txt-shadow;
+    //@extend .header-txt-shadow;
   }
   h1 {
     font-family: $font-family-logo;
-    @extend .header-txt-shadow;
+    //@extend .header-txt-shadow;
     padding: 2em 0;
   }
 
@@ -50,6 +50,37 @@
 
 #main {
   background-position: 100% 0, 0 center, center top;
+}
+
+.main_post {  
+  padding: 12em;
+  padding-top: 37em;
+  padding-bottom: 2em;
+  /* --- Responsive --- */
+  @media screen and (min-width: $break) {
+    padding: 12em;
+    padding-top: 40em;
+    padding-bottom: 2em;
+    //height: 25em;
+    background-size: 100% 30em;
+  }
+
+  @media screen and (max-width: $break) {
+    padding: 2em;
+    padding-top: 20em;
+    padding-bottom: 2em;
+    //height: 20em;
+    background-size: 100% 20em;
+  }
+
+  @media screen and (max-width: $sm-break) {
+    //height: 10em;
+    padding: 2em;
+    padding-top: 12em;
+    padding-bottom: 2em;
+    background-size: 100% 10em;
+  }
+  padding-bottom: 0;
 }
 
 /* --- Post listing --- */
@@ -108,3 +139,4 @@
     margin-top: 1em;
   }
 }
+
