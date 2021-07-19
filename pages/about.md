@@ -16,7 +16,7 @@ LG Open Source Program Office manages open source and reduces open source compli
 ## <center>OpenChain Conformance</center>
 <br>
 The OpenChain Project builds trust in open source by making open source license compliance simpler and more consistent. OpenChain Conformance allows organizations to display their adherence to these requirements. The result is that open source license compliance becomes more predictable, understandable and efficient for participants of the software supply chain.
-LG Electronics [announced an OpenChain conformant program](https://www.openchainproject.org/news/2019/11/19/lg-electronics-announces-openchain-conformance) in November 2019 LG. This is the first announcement by a major korean company. In February 2021, we also [announced conformance to OpenChain 2.1 (ISO/IEC 5230)](https://www.openchainproject.org/featured/2021/02/08/lg-openchain-iso-5230), the International Standard for open source license compliance.
+LG Electronics [announced an OpenChain conformant program](https://www.openchainproject.org/news/2019/11/19/lg-electronics-announces-openchain-conformance) in November 2019. This is the first announcement by a major korean company. In February 2021, we also [announced conformance to OpenChain 2.1 (ISO/IEC 5230)](https://www.openchainproject.org/featured/2021/02/08/lg-openchain-iso-5230), the International Standard for open source license compliance.
 
 <br>
 <hr>
